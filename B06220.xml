@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and impartial relation of a wonderful apparition that happen'd in the royal camp in Flanders, the beginning of this instant September, 1692, concerning King William. / In a letter to a gentleman in London, from his friend, a captain in the King's camp.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06220</idno>
+            <idno type="STC">Wing T2499A</idno>
+            <idno type="STC">ESTC R185548</idno>
+            <idno type="EEBO-CITATION">53981588</idno>
+            <idno type="OCLC">ocm 53981588</idno>
+            <idno type="VID">180398</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06220)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180398)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2827:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and impartial relation of a wonderful apparition that happen'd in the royal camp in Flanders, the beginning of this instant September, 1692, concerning King William. / In a letter to a gentleman in London, from his friend, a captain in the King's camp.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Re-printed in the year 1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Licensed, September 27.1692. E.B."</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Apparitions --  Flanders --  Early works to 1800.</term>
+               <term>Grand Alliance, War of the, 1689-1697 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:180398:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <head>A True and Impartial <hi>Relation</hi> of a Wonderful Apparition that Happen'd in the Royal Camp in <hi>Flanders,</hi> the begin<g ref="char:EOLhyphen"/>ning of this Inſtant <hi>September 1692.</hi> concerning King <hi>William.</hi> In a Letttr to a Gentleman in <hi>London,</hi> from his Friend, a Captain in the King's Camp.</head>
+            <p>LICENSED, <hi>September</hi> 27. 1692. E. B.</p>
+            <p>IT is not (I preſume) unknown to moſt, of the Diſmal Earthquake that happen'd at <hi>Bruſſels,</hi> and other places in <hi>Flanders,</hi> much about the ſame time there was one univer<g ref="char:EOLhyphen"/>ſally felt here: And having received a Letter lately from thence, from a very worthy Friend of mine, (whoſe Name, not having his permiſſion to reveal, I hope you will not think the worſe of the Truth of the matter here related, for my concealing it), who is a Captain in Collonel <hi>Stapleton</hi>'s Regiment, and himſelf at his return, will, I durſt ſay, avouch the ſame: He not only gives ſome Account of that Earthquake, but of things that ſeem as ſtrange as (I believe, you will find at his Majeſty's Return, to be) true; which is concerning his Sacred Majeſty King <hi>William:</hi> And, <hi>Gentle Reader,</hi> I will no longer detain your patience, but take it as it came to me in the true Copy thereof, <hi>viz.</hi>
+            </p>
+            <div type="account_proper">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>ABout ten days ſince, one <hi>Huſſey,</hi> a Soldier in my Company, ſtanding Centry about One of the Clock in the Morning, at my Colonel <hi>Stapleton</hi>'s Tent door, there appeared a Spirit to him, <hi>viz. A</hi> tall Gentleman-like Perſon, in a Camlet Coat, and ſhort Dark Peruke, mounted upon a fine Dapple-gray Horſe; he ruſhed by <hi>Huſſey,</hi> who bid him ſtand; the Spirit reply'd ſeveral times in a ſhrill Tone, <hi>The King, the King is to be made away, if care be not ſpeedilly taken;</hi> or to that purpoſe; <hi>Huſsey</hi> asked by whom? upon which another Spirit ap<g ref="char:EOLhyphen"/>peared to him on Foot, having the appearance of a ſtern Black man, full grown, and pretty tall, having on a Blew Campaign Coat, with a Cape, and Black Campaign Peruke, and a Black Hat laced with Silver Lace, and a Silver-hilted Sword; the firſt Spirit ſaid, <hi>That is the Man, take good notice of him,</hi> which he did; and then the laſt Spirit vaniſhed: And <hi>Huſſey</hi> askt the firſt Spirit, who ſtill was on Horſeback, Whether that Perſon did belong to the Army? the Spirit replied, <hi>He was daily buſling about the Court,</hi> &amp; then the firſt Spirit vaniſhed, <hi>Huſſey</hi> writ a Relation of this under his hand (being ſeemingly very well in his Senſes), and offered to me upon his revealing it to me, to ſwear to the truth of it. After which he ſaw the real Perſon riding with the King, which appeared to him on foot; and <hi>Huſſey</hi> would have ſeized on him, but could not come near enough to him at that time, <hi>Huſſey</hi> being on foot, but waited an op<g ref="char:EOLhyphen"/>portunity to do it, ſome other time, and revealed it at the ſame time. But at one of the Clock the very next morning after, ſtanding Centry near the ſame place again, the firſt Spirit that ap<g ref="char:EOLhyphen"/>peared to him on Horſeback before, appeared to him on foot, and with an Angry Countenance ſaid, <hi>Now the Buſineſs is prevented, no thanks to you; why did not you do your Duty yeſterday</hi> and with that the Spirit hit him a blow on the back, which hath confined him to the Trench three of four days; and the Spirit ſaid, <hi>He is gone back to the French, but was laſt night ſhot in the Guts by an Out-Centry of theirs:</hi> And it is aſſerted by a Deſerter that came over to us that Night, That ſuch a Man ſo habited, &amp; as related by the Spirit, was ſo ſhot by them, &amp; hath aſſer<g ref="char:EOLhyphen"/>ted it: Believe it as you pleaſe. <hi>Huſsey</hi> is poſitive in the matter, and I think good to give you a Character of him my ſelf, who <hi>I</hi> have often ſounded about this Buſineſs, and neither Threats of Puniſhment, or Promiſes of Reward, can make him recant; but he ſtands to the Truth of what I have here written from his mouth; And <hi>I</hi> think fit to add ſo much of my own know<g ref="char:EOLhyphen"/>ledge of him, That ever ſince I have known him under my Command, he hath behaved him, ſelf with a great deal of Faithfulneſs, Courage, and Loyalty, diligent in His Duties, obſerv<g ref="char:EOLhyphen"/>ing the Commands of his Officers, and chearfully obeying them as a good Soldier ought to do; and a Fellow given neither to Melancholly, nor to much mirth, but a harmleſs good-natured Fellow as any I have in my Company.</p>
+               <p>So I leave you to judge of the matter, which to me is worth the taking notice of; and to you <hi>I</hi> queſtion not but it will be the ſame.</p>
+               <closer>
+                  <dateline>From the Camp of <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <date>Inſtant. <hi>English</hi> Stile.</date> This happen'd at the <hi>Imperial</hi> Camp, a League beyond <hi>Valko<g ref="char:EOLhyphen"/>way.</hi>
+                  </dateline>
+                  <signed>I am Your Loving Friend.</signed>
+               </closer>
+               <postscript>
+                  <head>POSTSCRIPT.</head>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>WE have had a great Earthquake here at <hi>Bruſſels</hi> laſt Week, and ſome Houſes are over thrown thereby: There was little <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> occaſioned by it in our Camp; but the ſhake be<g ref="char:EOLhyphen"/>ing great at His Majeſty's Lodging they run ſo faſt out of the Door, that they run over the Gen<g ref="char:EOLhyphen"/>tries; and one of them had three of his Teeth beat out, and ſome more bruiſed.</p>
+               </postscript>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed in the Year 1692.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
